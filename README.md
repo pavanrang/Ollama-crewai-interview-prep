@@ -5,9 +5,7 @@ This project leverages the power of `ollama` , `llama2` and `crewai` to provide 
 
 ## Features
 
-- **Local Execution**: Runs on your local machine without the need for cloud processing, ensuring privacy and reducing latency.
-- **Free Usage**: Utilize the `llama2` model without incurring cloud computing costs.
-- **Flexible Model Support**: Supports models up to 70b, with `ollama` intelligently selecting the best model based on your system's hardware.
+This aids in interview preparation. Using the AI model, it offers insights and strategies for understanding interview contexts, analyzing industry trends, and crafting engaging discussion points. It's an innovative approach to ensure you're fully prepped and confident for any meeting.
 
 ## Prerequisites
 
