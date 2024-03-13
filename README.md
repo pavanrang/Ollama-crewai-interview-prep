@@ -17,11 +17,11 @@ Before you get started, ensure you have the following installed on your system:
 
 1. Clone this repository to your local machine:
    ```
-   [git clone <Ollama-crewai-interview-prep>](https://github.com/Rangasatyaviswapavan/Ollama-crewai-interview-prep.git)
+   git clone https://github.com/Rangasatyaviswapavan/Ollama-crewai-interview-prep.git
    ```
 2. Navigate into the project directory:
    ```
-   cd <Ollama-crewai-interview-prep>
+   cd Ollama-crewai-interview-prep
    ```
 
 ## Running the Project
